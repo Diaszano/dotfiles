@@ -1,0 +1,10 @@
+[init]
+    defaultBranch = master
+
+[pull]
+	rebase = true
+
+[user]
+    name = diaszano
+    email = 61257292+Diaszano@users.noreply.github.com
+    
